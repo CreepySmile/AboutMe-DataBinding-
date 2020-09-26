@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Zin Linn Aung</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Hi, My name is Zin Linn Aung.
+
+        \n\nI am 25 years old. I was born in April,1995.
+        Currently, I live in Einme township.
+
+        \n\nI like to playing Mobile Legends.
+        My hobby is coding, drawing, eating, sleeping and watching comedy movies.
+        Guardian of the galaxy is one of my favorite movie.I like Thor too.I am a Marvel Fan.
+
+        \n\nI love pets, especially giant Alaskan dogs.
+
+        \n\nI like to eat vegetables and meats.I don't like fish curry
+        but I like grilled fish and beer.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+    <string name="done">Done</string>
+</resources>
